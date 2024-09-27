@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="261.75"
-     inkscape:cy="92"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="285.49436"
+     inkscape:cy="126.57211"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="-8"
@@ -89,7 +89,7 @@
     </g>
     <g
        id="g11812"
-       transform="translate(-10.393332,3.086963)">
+       transform="translate(-11.330367,3.086963)">
       <path
          id="path8498"
          style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.496933"
@@ -107,7 +107,7 @@
     </g>
     <g
        id="g47107"
-       transform="translate(-1.6925561,2.80633)">
+       transform="translate(19.912143,2.80633)">
       <path
          id="path22709"
          style="color:#000000;fill:#999999;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.497065"
@@ -222,7 +222,7 @@
     </g>
     <g
        id="g44860"
-       transform="translate(-1.2728602,2.80633)">
+       transform="translate(-1.4388157,2.80633)">
       <circle
          style="fill:#00aa44;fill-opacity:1;stroke:#00ff00;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.496933;paint-order:fill markers stroke"
          id="path16475"
@@ -242,7 +242,7 @@
     </g>
     <g
        id="g49376"
-       transform="translate(0,2.80633)">
+       transform="translate(-18.349103,2.80633)">
       <path
          id="path49367"
          style="color:#000000;fill:#00aa44;fill-opacity:1;stroke:#00ff00;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.498039"
@@ -258,5 +258,34 @@
            x="109.3222"
            y="77.2062">.M.</tspan></text>
     </g>
+    <g
+       id="g335"
+       transform="translate(39.932783,2.80633)">
+      <path
+         id="rect495"
+         style="fill:#999999;stroke-width:0.499998;stroke-linecap:round;stroke-opacity:0.498039;paint-order:fill markers stroke"
+         d="m 91.352194,67.433605 v 2.093412 c 0.779039,-0.07593 0.91983,0.334258 1.688786,0.304375 0.436106,-0.01695 0.792634,0.203588 1.257804,0.664042 v -3.061829 z m 5.23534,0.800985 c -0.227581,1.015796 -0.502772,1.439457 -1.087789,2.253092 1.076948,-0.491671 1.500656,-0.605304 2.936255,-0.571024 -1.557618,-0.852066 -1.483418,-1.113505 -1.848466,-1.682068 z m 3.034956,2.000395 c -0.519941,0.234789 -0.838431,0.275476 -1.48208,0.335896 0.797051,0.192779 1.080254,0.292726 1.87689,0.758094 -0.268695,-0.482008 -0.31578,-0.757173 -0.39481,-1.09399 z m -14.647168,0.84801 v 4.034896 h 8.400521 c 5.951418,-0.004 5.966113,-4.052426 0,-4.034896 z m 15.884298,3.476273 c -0.905634,0.329387 -1.888318,0.916303 -3.443196,0.619084 1.364216,0.584254 1.457206,0.878605 2.180745,1.893941 5.58e-4,-1.104877 0.228012,-1.625846 1.262451,-2.513025 z m -3.752221,1.042314 c -0.838288,0.12224 -1.258106,0.102451 -2.086695,0.04134 0.782974,0.322585 1.031982,0.466219 1.56683,1.040247 0.114882,-0.493531 0.308892,-0.756459 0.519865,-1.081587 z m -2.808615,0.318844 c -0.448013,0.287259 -0.941303,0.434024 -1.439705,0.38809 -0.49599,-0.04571 -0.997064,0.538817 -1.506885,0.578259 v 1.862419 h 2.94659 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:'Futura PT';-inkscape-font-specification:'Futura PT, Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="90.999809"
+         y="77.2062"
+         id="text333"><tspan
+           sodipodi:role="line"
+           x="90.999809"
+           y="77.2062"
+           id="tspan439">.I.</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.7px;line-height:1.25;font-family:'Futura PT';-inkscape-font-specification:'Futura PT, Bold';font-variant-ligatures:none;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+       x="138.11392"
+       y="61.7621"
+       id="text1007"><tspan
+         sodipodi:role="line"
+         id="tspan1005"
+         style="text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+         x="138.11392"
+         y="61.7621">.O.</tspan></text>
   </g>
 </svg>
